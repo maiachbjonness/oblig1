@@ -182,7 +182,7 @@ body {
   right: 50%;
   transform: translate(10%,-40%);
   font-family: Work sans-serif;
-  color: lightblue;
+  color:  rgb(123, 43, 169);
   }
 
   /*For text about Attender */
@@ -197,6 +197,7 @@ body {
 
 /*For header on first page*/
 .header-text h3 {
+<<<<<<< Updated upstream
   color: lightblue !important;
 }
 
@@ -233,3 +234,7 @@ body {
   font-family: Work sans-serif;
   font-size: 20px;
 }
+=======
+  color:  rgb(123, 43, 169);
+}
+>>>>>>> Stashed changes
